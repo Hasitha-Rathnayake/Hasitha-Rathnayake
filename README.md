@@ -2,9 +2,12 @@
 <h3 align="center">Artificial Intelligence Enthusiast | Future Technology Explorer | Networking Enthusiast</h3>
 
 ## 🧑‍💻 About Me
-- 🎓 Undergraduate at SLIIT, Sri Lanka
-- 🧠 Passionate about AI, robotics, electronics,Networking and human science
-- 🚀 Exploring future technologies and their impact on society
+- 🎓 IT Undergraduate at SLIIT, Sri Lanka
+- 🧠 Passionate about Artificial Intelligence and Network Engineering
+- 🛠️ Certified in Cisco IT Essentials & Aviatrix ACE Multicloud Networking
+- 🤖 Exploring robotics, embedded systems, and cloud infrastructure
+- 🌐 Building a career at the intersection of intelligent systems and scalable networks
+
 - 📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/hasitharathnayake) | [Email](mailto:Hasitharathnayake2002@gmail.com)
 
 ## 🤖 Core Stacks: Code, Cloud & Hardware

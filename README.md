@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Hasitha Rathnayake</h1>
-<h3 align="center">Artificial Intelligence Enthusiast | Future Technology Explorer | Human Science Admirer | IT Undergraduate @SLIIT</h3>
+<h1 align="center">Hi Welcome There! 👋, I'm Hasitha Rathnayake</h1>
+<h3 align="center">Artificial Intelligence Enthusiast | Future Technology Explorer | Networking Enthusiast</h3>
 
 ## 🧑‍💻 About Me
 - 🎓 Undergraduate at SLIIT, Sri Lanka
@@ -20,10 +20,12 @@
 
 ### ☁️ Cloud & Networking
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![OCI](https://img.shields.io/badge/Oracle_Cloud-FF0000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Aviatrix](https://img.shields.io/badge/Aviatrix-FF6F00?style=for-the-badge&logo=aviatrix&logoColor=white)
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-FF0000?style=for-the-badge&logo=oracle&logoColor=white)
+
 
 ### 🧪 Essential Tools & Platforms
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)

@@ -5,7 +5,7 @@
 - 🎓 Undergraduate at SLIIT, Sri Lanka
 - 🧠 Passionate about AI, robotics, electronics,Networking and human science
 - 🚀 Exploring future technologies and their impact on society
-- 📫 Connect with me: [LinkedIn](www.linkedin.com/in/hasitharathnayake) | [Email](Hasitharathnayake2002@gmail.com)
+- 📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/hasitharathnayake) | [Email](Hasitharathnayake2002@gmail.com)
 
 ## 🤖 Core Stacks: Code, Cloud & Hardware
 

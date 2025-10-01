@@ -54,7 +54,7 @@
 
 I’m always open to collaboration, feedback, and learning together. If you like what I do:
 
-- ⭐ Star my repositories
+- ⭐ Star my repositories.
 - 🍴 Fork and build on my projects
 - 💬 Reach out for collabs or mentorship
 - 📢 Share my work with others

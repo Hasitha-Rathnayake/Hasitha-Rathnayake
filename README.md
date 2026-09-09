@@ -41,8 +41,8 @@
 - 🔌 **Enterprise Network Design** – Multi-part academic project with real-world hardware specs and cost analysis
 
 ## 📊 GitHub Stats
-![Hasitha's GitHub stats](https://github-readme-stats.vercel.app/api?username=hasitha-dev&show_icons=true&theme=radical&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasitha-dev&layout=compact&theme=radical&hide_border=true)
+![Hasitha's GitHub stats](https://github-readme-stats.vercel.app/api?username=hasitha-dev&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasitha-dev&layout=compact&theme=radical&hide_border=true&cache_seconds=86400)
 
 ## 🏆 GitHub Trophies
 ![Trophies](https://github-profile-trophy.vercel.app/?username=hasitha-dev&theme=darkhub&no-frame=true)
